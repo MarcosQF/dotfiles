@@ -1,4 +1,4 @@
-theme = "kanagawa"
+theme = "monokai_pro_octagon"
 
 [editor]
 rulers = [80]
@@ -71,3 +71,5 @@ A-k = [ "keep_primary_selection",
  "rotate_selection_contents_forward",
  "keep_primary_selection"
  ]
+
+c = { c = ["extend_to_line_bounds", "trim_selections", "change_selection"] }
