@@ -1,0 +1,19 @@
+{
+  "name": "meus-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./angular-control-flow.json"
+      },
+      {
+        "language": "htmlangular",
+        "path": "./angular-control-flow.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./angular-control-flow.json"
+      }
+    ]
+  }
+}
